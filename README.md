@@ -9,4 +9,7 @@ Clean minimal UI with dark theme
 Tech Stack
 HTML CSS Vanilla JavaScript
 
+LINK:
+peaceful-cat-ce504f.netlify.app
+
 THIS IS JUST FOR MY REVISION 
