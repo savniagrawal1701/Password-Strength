@@ -4,8 +4,9 @@ A real-time password strength checker that gives instant visual feedback as the 
 
 
 🚀 Live Demo → [peaceful-cat-ce504f.netlify.app](https://peaceful-cat-ce504f.netlify.app/)
-✨ Features
 
+
+✨ Features
 ⚡ Live strength detection (Weak / Medium / Strong)
 🎨 Dynamic color feedback on input border, message, and background
 🌙 Clean minimal UI with dark theme
