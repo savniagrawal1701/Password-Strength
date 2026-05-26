@@ -1,6 +1,9 @@
 🔐 Password Strength Indicator
 A real-time password strength checker that gives instant visual feedback as the user types — border color, message color, and background all update dynamically based on password strength.
-🚀 Live Demo → peaceful-cat-ce504f.netlify.app
+
+
+
+🚀 Live Demo → [peaceful-cat-ce504f.netlify.app](https://peaceful-cat-ce504f.netlify.app/)
 ✨ Features
 
 ⚡ Live strength detection (Weak / Medium / Strong)
